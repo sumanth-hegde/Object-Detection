@@ -1,6 +1,6 @@
 # Object-Detection
 
-Object Detection using python and OpenCV
+Object Detection using python and OpenCV.
 
 * Here, the objects in a given video and images are detected using Haarscascade files and OpenCV. 
 
